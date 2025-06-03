@@ -1,3 +1,41 @@
+# 🌦️ Weather Forecast App
+
+A simple and responsive weather forecasting web application built with **React**. The app fetches real-time weather data using the **OpenWeatherMap API**, and displays current weather conditions for any city entered by the user.
+
+---
+
+## 🚀 Features
+
+- 🔍 Search weather by city name
+- 🌡️ Real-time temperature, humidity, and wind speed
+- 📍 Display of weather icon and conditions
+- 💻 Fully responsive design for mobile, tablet, and desktop
+- 🌓 Clean and modern UI
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- CSS (or Tailwind, if used)
+- JavaScript (ES6+)
+- OpenWeatherMap API
+
+---
+
+## 📷 Screenshots
+
+<!-- Add screenshots later if you'd like -->
+![Weather App Screenshot](public/images/screenshot.png)
+
+---
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/elhamzhianpoor/weather-app.git
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
